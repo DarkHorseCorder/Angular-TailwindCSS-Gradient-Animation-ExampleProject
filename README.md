@@ -1,6 +1,8 @@
-[![Website](https://img.shields.io/badge/Explore%20my%20repo%20-github--repo--explorer-green?style=flat-square&logo=github)](https://indrajitbnikam.github.io/github-repo-explorer/#/https%3A%2F%2Fgithub.com%2Findrajitbnikam%2Fangular-tailwind-example)
+# For my Girl Friend
 
-# AngularTailwindExample
+![Girl Friend Photo](https://github.com/DarkHorseCorder/Angular-TailwindCSS-Gradient-Animation-ExampleProject/blob/master/screencapture-localhost-4200-login-2022-02-22-11_13_05.png)
+
+# Angular-TailwindCSS-Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 

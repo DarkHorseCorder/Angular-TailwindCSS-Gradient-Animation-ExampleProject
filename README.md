@@ -4,8 +4,6 @@
 
 [Watch video](20220222_111205_edit1.mp4)
 
-[![Watch the video](https://github.com/DarkHorseCorder/Angular-TailwindCSS-Gradient-Animation-ExampleProject/blob/master/20220222_111205_edit1.mp4)](https://github.com/DarkHorseCorder/Angular-TailwindCSS-Gradient-Animation-ExampleProject/blob/master/20220222_111205_edit1.mp4)
-
 # Angular-TailwindCSS-Example
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
